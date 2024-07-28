@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=movetostart
+Comment=
+Exec=/home/caleb/Desktop/franka_desktop_launch/franka_shell_scripts/move_to_start.sh
+Terminal=true
+Type=Application
